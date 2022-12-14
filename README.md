@@ -1,12 +1,10 @@
-# Daily_Planner
+# Daily Planner
 
-## James Maxwell Gorodesky
+
+
+## Welcome to my Daily Planner! 
 
 ---
-
-
-
-### Welcome to my Daily Planner! 
 
 
 
@@ -43,16 +41,9 @@
 
 
 
+
+
 ---
 <br>
 
-
-
-
-
-Deployed link: 
-https://jmg5369.github.io/Daily_Planner/
-
-
-Github Repository:
-https://github.com/jmg5369/Daily_Planner
+### Created by : James Maxwell Gorodesky
