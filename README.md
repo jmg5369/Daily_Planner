@@ -23,6 +23,7 @@
 
 - To install the app, make your way to the linked application or clone down the repository to your local machine.
 
+
 ## Usage
 
 -Enter information into daily planner that you'd like to have saved for later use. 
